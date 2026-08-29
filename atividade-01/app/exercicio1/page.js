@@ -18,10 +18,10 @@ export default function Exercicio1() {
                     backgroundColor: "red",
                     padding: "1rem",
                     border: '2px solid green',
-                    display: 'inline-block',
+                    display: 'inline-block'
                 }}
             >
-                Primeiro exercício de CSS
+                Primeiro exercício de CSS 
             </h1>
         </div>
     );
