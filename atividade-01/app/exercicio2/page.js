@@ -6,7 +6,7 @@ export default function Exercicio2 () {
                     backgroundColor: "red",
                     width: "700px",
                     padding:"0px",
-                    margin: "auto",
+                    margin: "0 auto",
                     boxSizing: "content-box"
                 }}
             >
@@ -18,7 +18,7 @@ export default function Exercicio2 () {
                     backgroundColor: "green",
                     width: "700px",
                     padding: "25px",
-                    margin: "auto",
+                    margin: "0 auto",
                     boxSizing: "content-box"
                 }}
             >
