@@ -4,3 +4,4 @@ Programação Web e Mobile [UNICAP]
 
 - [react-01](https://programacao-web-e-mobile-alpha.vercel.app/)
 - [atividade-01](https://programacao-web-e-mobile-3n4f.vercel.app/)
+- [jogo-dados](https://jogo-dados-ten-eta.vercel.app/)
